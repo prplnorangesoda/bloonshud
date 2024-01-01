@@ -13,10 +13,10 @@
 		"ypos"			"r144"	[$X360]
 		"zpos"			"2"
 		"wide"			"200"
-		"tall"			"50"
+		"tall"			"60"
 		"visible"		"1"
 		"enabled"		"1"	
-		"HealthBonusPosAdj"	"31"
+		"HealthBonusPosAdj"	"10"
 		"HealthDeathWarning"	"0"
 		"HealthDeathWarningColor"	"HUDDeathWarning"
 	}	
@@ -39,9 +39,9 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImageBG"
-		"xpos"			"20"
+		"xpos"			"26"
 		"xpos_minmode"	"58"
-		"ypos"			"0"
+		"ypos"			"7"
 		"zpos"			"3"
 		"wide"			"30"
 		"tall"			"30"
@@ -54,8 +54,8 @@
   {
     "ControlName" "ImagePanel"
     "fieldName"   "PlayerStatusAmmoImage"
-    "xpos"        "130"
-    "ypos"        "0"
+    "xpos"        "146"
+    "ypos"        "7"
     "zpos"        "3"
     "wide"        "30"
     "tall"        "30"
@@ -69,30 +69,28 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
 		"xpos"			"20"	[$WIN32]
-		"xpos_minmode"	"65"	[$WIN32]
 		"xpos"			"83"	[$X360]
 		"ypos"			"0"	[$WIN32]
-		"ypos_minmode"	"40"	[$WIN32]
 		"ypos"			"43"	[$X360]
 		"zpos"			"2"
-		"wide"			"100"	[$WIN32]
+		"wide"			"40"	[$WIN32]
 		"wide_minmode"	"40"	[$WIN32]
 		"wide"			"35"	[$X360]
-		"tall"			"100"	[$WIN32]
+		"tall"			"40"	[$WIN32]
 		"tall_minmode"	"40"	[$WIN32]
 		"tall"			"35"	[$X360]
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../hud/health_over_bg"
-		"scaleImage"	"0"	
+		"image"			"../replay/thumbnails/crosshair/LivesShield"
+		"scaleImage"	"1"	
 	}
 	"PlayerStatusHealthValue"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"56"
+		"xpos"			"64"
 		"xpos_minmode"	"61"
-		"ypos"			"0"	[$WIN32]
+		"ypos"			"6"	[$WIN32]
 		"ypos"			"0"	[$X360]
 		"zpos"			"5"
 		"wide"			"50"
