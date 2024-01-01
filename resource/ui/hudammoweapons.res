@@ -33,7 +33,7 @@
 		"tall"			"45"
 		"visible"		"0"
 		"enabled"		"0"
-		"image"			"../hud/ammo_red_bg"
+		"image"			""
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/ammo_red_bg"
 		"teambg_2_lodef"	"../hud/ammo_red_bg_lodef"
