@@ -783,12 +783,12 @@
 	{
 		"fieldName"				"HudHintDisplay"
 		"visible"				"0"
-		"enabled"				"1"
+		"enabled"				"0"
 		"xpos"					"c-240"
 		"ypos"					"c60"
 		"wide"					"480"
 		"tall"					"100"
-		"HintSize"				"1"
+		"HintSize"				"0"
 		"text_xpos"				"8"
 		"text_ypos"				"8"
 		"center_x"				"0"	// center text horizontally
