@@ -5,5 +5,5 @@ Note: Damage numbers are from cutehud, but adapted
 
 # Installation
 1. Go to Releases on the right
-2. Click on the latest release ([permanent link](https://github.com/Rafplayz/bloonshudreal/releases/tag/v1.0.0))
+2. Click on the latest release ([permanent link](https://github.com/Rafplayz/bloonshudreal/releases/latest))
 3. Follow instructions there
