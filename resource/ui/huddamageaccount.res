@@ -28,22 +28,4 @@
 		"font"					"BloonRegular24"
 		"fgcolor_override"				"255 255 255 255"
 	}
-
-	"DamageAccountValueShadow"
-	{
-		"ControlName"			"CExLabel"
-		"fieldName"				"DamageAccountValueShadow"
-		"xpos"					"-2"
-		"ypos"					"-2"
-		"zpos"					"1"
-		"wide"					"100"
-		"tall"					"26"
-		"visible"				"1"
-		"enabled"				"1"
-		"labelText"				"%metal%"
-		"textAlignment"			"center"
-		"font"					"BloonRegular24"
-		"fgcolor"				"Black"
-		"pin_to_sibling"		"DamageAccountValue"
-	}
 }
