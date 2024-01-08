@@ -139,9 +139,9 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"ClockSubText"
-		"font_hidef"	"HudFontSmall"
-		"font_lodef"	"HudFontSmall"
+		"font"			"BloonRegular12"
+		"font_hidef"	"BloonRegular16"
+		"font_lodef"	"BloonRegular12"
 
 		if_match
 		{
@@ -150,9 +150,9 @@
 			"ypos"					"21"
 			"ypos_minmode"			"21"
 			"wide"					"p1"
-			"font"					"HudFontSmallestBold"
-			"font_hidef"			"HudFontSmallestBold"
-			"font_lodef"			"HudFontSmallestBold"
+			"font"			"BloonRegular12"
+		  "font_hidef"	"BloonRegular16"
+		  "font_lodef"	"BloonRegular12"
 		}
 	}			
 	"OvertimeBG"
@@ -203,9 +203,9 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"ClockSubTextSuddenDeath"
-		"font_hidef"	"HudFontSmall"
-		"font_lodef"	"HudFontSmall"
+		"font"			"BloonRegular16"
+		"font_hidef"	"BloonRegular16"
+		"font_lodef"	"BloonRegular12"
 
 		if_match
 		{
@@ -214,9 +214,9 @@
 			"ypos"					"21"
 			"ypos_minmode"			"21"
 			"wide"					"p1"
-			"font"					"HudFontSmallestBold"
-			"font_hidef"			"HudFontSmallestBold"
-			"font_lodef"			"HudFontSmallestBold"
+			"font"					"BloonRegular16"
+			"font_hidef"			"BloonRegular16"
+			"font_lodef"			"BloonRegular12"
 		}
 	}			
 	"SuddenDeathBG"
