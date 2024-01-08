@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/replay/thumbnails/crosshair/Lives"
+	"$translucent" 1
+}

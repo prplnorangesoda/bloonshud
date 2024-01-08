@@ -32,7 +32,7 @@
 		"tall"			"26"
 		"visible"		"0"
 		"enabled"		"0"
-    "image"   "../replay/thumbnails/crosshair/LivesFg"
+    "image"   "replay/thumbnails/crosshair/LivesFg"
 		"scaleImage"	"0"	
 	}		
 	"PlayerStatusHealthImageBG"
@@ -47,7 +47,7 @@
 		"tall"			"30"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../replay/thumbnails/crosshair/Lives"
+		"image"			"replay/thumbnails/crosshair/Lives"
 		"scaleImage"	"1"	
 	}	
   "PlayerStatusAmmoImage"
@@ -61,7 +61,7 @@
     "tall"        "30"
     "visible"     "1"
     "enabled"     "1"
-    "image"       "../replay/thumbnails/crosshair/Money"
+    "image"       "replay/thumbnails/crosshair/Money"
     "scaleImage"  "1"
   }
 	"PlayerStatusHealthBonusImage"
@@ -81,7 +81,7 @@
 		"tall"			"35"	[$X360]
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../replay/thumbnails/crosshair/LivesShield"
+		"image"			"replay/thumbnails/crosshair/LivesShield"
 		"scaleImage"	"1"	
 	}
 	"PlayerStatusHealthValue"
