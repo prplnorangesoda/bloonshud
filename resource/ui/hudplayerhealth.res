@@ -6,14 +6,14 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerHealth"
 		"xpos"			"l0"		[$WIN32]
-		"xpos_minmode"	"-5"		[$WIN32]
+		"xpos_minmode"	"c-160"		[$WIN32]
 		"ypos"			"l0"	[$WIN32]
-		"ypos_minmode"	"r88"	[$WIN32]
+		"ypos_minmode"	"c80"	[$WIN32]
 		"xpos"			"32"	[$X360]
 		"ypos"			"r144"	[$X360]
 		"zpos"			"2"
-		"wide"			"200"
-		"tall"			"60"
+		"wide"			"160"
+		"tall"			"70"
 		"visible"		"1"
 		"enabled"		"1"	
 		"HealthBonusPosAdj"	"10"
@@ -40,7 +40,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImageBG"
 		"xpos"			"26"
-		"xpos_minmode"	"58"
+		"xpos_minmode"	"15"
 		"ypos"			"7"
 		"zpos"			"3"
 		"wide"			"30"
@@ -49,29 +49,17 @@
 		"enabled"		"1"
 		"image"			"replay/thumbnails/crosshair/Lives"
 		"scaleImage"	"1"	
-	}	
-  "PlayerStatusAmmoImage"
-  {
-    "ControlName" "ImagePanel"
-    "fieldName"   "PlayerStatusAmmoImage"
-    "xpos"        "146"
-    "ypos"        "7"
-    "zpos"        "3"
-    "wide"        "30"
-    "tall"        "30"
-    "visible"     "1"
-    "enabled"     "1"
-    "image"       "replay/thumbnails/crosshair/Money"
-    "scaleImage"  "1"
-  }
+	}
 	"PlayerStatusHealthBonusImage"
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
 		"xpos"			"20"	[$WIN32]
 		"xpos"			"83"	[$X360]
+    "xpos_minmode" "10"
 		"ypos"			"0"	[$WIN32]
 		"ypos"			"43"	[$X360]
+    "ypos_minmode" "1"
 		"zpos"			"2"
 		"wide"			"40"	[$WIN32]
 		"wide_minmode"	"40"	[$WIN32]
@@ -89,17 +77,19 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
 		"xpos"			"64"
-		"xpos_minmode"	"61"
+		"xpos_minmode"	"55"
 		"ypos"			"6"	[$WIN32]
 		"ypos"			"0"	[$X360]
 		"zpos"			"5"
-		"wide"			"50"
+    "wide"      "50"
+		"wide_minmode"			"80"
 		"tall"			"30"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"left"	
-		"font"			"BloonRegular24"
+		"font"			    "BloonRegular24"
+    "font_minmode"  "BloonRegular32"
 		"fgcolor_override"		"255 255 255 255"
 	}
 	"PlayerStatusMaxHealthValue"

@@ -3074,6 +3074,27 @@ Scheme
         "outline" "1"
 			}
     }
+
+    BloonRegular32
+    {
+      "1"
+      {
+        "name"  "Luckiest Guy"
+        "tall"  "32"
+        "antialias" "1"
+        "outline" "1"
+      }
+    }
+    BloonRegular40
+    {
+      "1"
+      {
+        "name"  "Luckiest Guy"
+        "tall"  "40"
+        "antialias" "1"
+        "outline" "1"
+      }
+    }
     BloonRegular48
     {
       "1"
