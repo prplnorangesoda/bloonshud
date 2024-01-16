@@ -20,8 +20,10 @@
 		"ypos"	"l0"	[$WIN32]
 		"xpos"	"r131"	[$X360]
 		"ypos"	"r77"	[$X360]
-		"wide"	"120"
-		"tall"	"50"
+    "xpos_minmode" "c0"
+    "ypos_minmode" "c70"
+		"wide"	"200"
+		"tall"	"60"
 	}
 	
 	HudObjectiveStatus
