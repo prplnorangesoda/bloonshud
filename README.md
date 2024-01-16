@@ -1,3 +1,5 @@
+# **NOTE: THIS COMES WITH A HITSOUND AND KILLSOUND! YOU CAN REMOVE THEM FROM THE `sound/` FOLDER**  
+
 # Bloonshud
 ![In-game image from 15 January 2024](https://raw.githubusercontent.com/Rafplayz/bloonshud/main/base_example_24-01-15.jpg)
 This hud is made from scratch as an homage to Ninja Kiwi's Bloons TD 6.
