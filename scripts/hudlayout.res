@@ -21,7 +21,7 @@
 		"xpos"	"r131"	[$X360]
 		"ypos"	"r77"	[$X360]
     "xpos_minmode" "c0"
-    "ypos_minmode" "c70"
+    "ypos_minmode" "c80"
 		"wide"	"200"
 		"tall"	"60"
 	}

@@ -17,7 +17,7 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"DamageAccountValue"
 		"xpos"					"cs-0.5" //c108
-		"ypos"					"c100" //365
+		"ypos"					"c150" //365
 		"zpos"					"2"
 		"wide"					"100"
 		"tall"					"26"
@@ -25,7 +25,7 @@
 		"enabled"				"1"
 		"labelText"				"%metal%"
 		"textAlignment"			"center"
-		"font"					"BloonRegular24"
+		"font"					"BloonRegular32"
 		"fgcolor_override"				"250 130 45 255"
 	}
 }

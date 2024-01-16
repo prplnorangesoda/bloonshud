@@ -3080,7 +3080,17 @@ Scheme
       "1"
       {
         "name"  "Luckiest Guy"
-        "tall"  "24"
+        "tall"  "32"
+        "antialias" "1"
+        "outline" "1"
+      }
+    }
+    BloonRegular40
+    {
+      "1"
+      {
+        "name"  "Luckiest Guy"
+        "tall"  "40"
         "antialias" "1"
         "outline" "1"
       }
