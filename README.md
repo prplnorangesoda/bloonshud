@@ -1,5 +1,5 @@
 # Bloonshud
-![In-game image from 15 January 2024](https://raw.githubusercontent.com/Rafplayz/bloonshud/main/base_example_24-01-15)
+![In-game image from 15 January 2024](https://raw.githubusercontent.com/Rafplayz/bloonshud/main/base_example_24-01-15.jpg)
 This hud is made from scratch as an homage to Ninja Kiwi's Bloons TD 6.
 
 Note: Damage numbers are from cutehud, but adapted
@@ -15,7 +15,7 @@ For a more conventional TF2 hud (centered health and ammo), run the command `cl_
 
 ## Comparison screenshots
 Base HUD  
-![Base HUD](https://raw.githubusercontent.com/Rafplayz/bloonshud/main/base_example_24-01-15)
+![Base HUD](https://raw.githubusercontent.com/Rafplayz/bloonshud/main/base_example_24-01-15.jpg)
 
 Minmode enabled HUD  
-![Minmode HUD](https://raw.githubusercontent.com/Rafplayz/bloonshud/main/minmode_example_24-01-15)
+![Minmode HUD](https://raw.githubusercontent.com/Rafplayz/bloonshud/main/minmode_example_24-01-15.jpg)
